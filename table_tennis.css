@@ -177,7 +177,7 @@ body {
   margin-bottom: 10px;
 }
 
-.card h3 {
+.card h3,p {
   margin: 10px 0 5px;
   color: #f2f67b;
   font-size: 2.5vh;
