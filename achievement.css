@@ -13,7 +13,7 @@ body {
   display: flex;
   height: fit-content;
   background-color: gray;
-  background-image: url("photo/IMG-20231224-WA0027.jpg");
+  background-image: url("photo/achievementsbg.jpg");
   background-size: cover; /* This ensures the image covers the entire container */
   background-position: center;
   padding-bottom: 4vh;
