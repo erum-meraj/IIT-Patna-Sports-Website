@@ -13,11 +13,7 @@ body {
   display: flex;
   height: fit-content;
   background-color: gray;
-<<<<<<< HEAD
-  background-image: url("photo/lawn_tennis_1.png");
-=======
   background-image: url("photo/achievementsbg.jpg");
->>>>>>> 3be45c6c010dd25a46eba71abf099bca06bc1f6a
   background-size: cover; /* This ensures the image covers the entire container */
   background-position: center;
   padding-bottom: 4vh;
